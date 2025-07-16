@@ -2,6 +2,17 @@
 
 This repository contains the tools, visualizations, and statistical analyses used in the study **"Influence of Concurrent Boiling Events on Acoustic Nucleation Rhythms in Cryogenic Systems"**. The study investigates how multiple boiling sources interact and affect the timing and consistency of bubble nucleation in cryogenic environments using acoustic signal data.
 
+### 📘 Reference Paper
+
+Read the full research paper here:  
+👉 **[Influence of Concurrent Boiling Events on Acoustic Nucleation Rhythms in Cryogenic Systems](https://AndrewJMart.github.io/AcousticConcurrentBoiling/Influence_of_Concurrent_Boiling_Events_on_Acoustic_Nucleation_Rhythms_in_Cryogenic_Systems.pdf)**
+
+> **Martinez, Andrew**  
+> *California Polytechnic State University, 2025*
+
+This paper outlines the motivation, methodology, statistical analysis, and results behind the acoustic boiling interference study using manually labeled cryogenic experiments.
+
+
 ## 🧠 Project Summary
 
 Cryogenic boiling experiments produce acoustic signals that reveal rhythmic patterns of bubble formation. This project provides a manual labeling tool and analysis pipeline to explore how the presence of multiple boiling sources affects the regularity of these events.
